@@ -38,3 +38,7 @@ const styles = StyleSheet.create({
     width: "100%",
   }
 });
+
+
+
+//Create an article page (Assignment)
